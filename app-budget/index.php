@@ -46,8 +46,8 @@
 					<input type="color" class="color" name="cor2" required/> <br>
                     <br>
                     <label for="referencia">Envie uma referência</label><br>
-					<input type="file" class="img" name="referencia"/>
-
+					<input type="file" class="img" name="referencia"/><br>
+					<br>
 					<button class="botao" type="submit">Enviar</button>
 				</form>
 			</div>
